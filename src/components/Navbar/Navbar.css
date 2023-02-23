@@ -1,0 +1,8 @@
+ion-toolbar {
+  --background: #f9f8f2;
+  --color: #da4140;
+}
+
+ion-img{
+    width: 200px;
+}

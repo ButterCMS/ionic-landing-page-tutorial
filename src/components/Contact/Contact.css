@@ -1,0 +1,29 @@
+.contact_container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f9f8f2;
+}
+
+.contact_container img {
+  width: 200px;
+}
+
+.contact_heading {
+  font-size: 2rem;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.contact_subtitle {
+  color: #000;
+  text-align: center;
+}
+
+ion-button {
+  --border-color: #6be076;
+  --color: #000;
+  width: 100%;
+}
