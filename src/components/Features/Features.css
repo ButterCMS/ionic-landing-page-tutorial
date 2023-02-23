@@ -1,0 +1,17 @@
+ion-text {
+  color: black;
+}
+
+ion-card-content {
+  background: #fff;
+  color: #000;
+}
+
+ion-card-header {
+  background: #fff;
+  border: none;
+}
+
+ion-card-title {
+  color: #000;
+}
